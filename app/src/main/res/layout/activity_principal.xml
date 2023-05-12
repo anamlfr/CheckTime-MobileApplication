@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PrincipalActivity">
+
+    <com.scwang.wave.MultiWaveHeader
+        android:id="@+id/multiWaveHeader"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:layout_gravity="bottom"
+        android:scaleY="-1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:mwhCloseColor="@color/blue_500"
+        app:mwhColorAlpha="0.30"
+        app:mwhGradientAngle="45"
+        app:mwhIsRunning="true"
+        app:mwhProgress="1"
+        app:mwhStartColor="@color/blue_dark"
+        app:mwhVelocity="1"
+        app:mwhWaveHeight="50dp"
+        app:mwhWaves="MultiWave" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/gifImageView2"
+        android:layout_width="410dp"
+        android:layout_height="200dp"
+        android:src="@drawable/principal"
+        app:layout_anchor="@+id/multiWaveHeader"
+        app:layout_anchorGravity="top|center"
+        app:layout_constraintEnd_toEndOf='parent'
+        app:layout_constraintStart_toStartOf='parent'
+        app:layout_constraintTop_toTopOf='parent' />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="vertical"
+        android:layout_margin="60dp">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btAcessar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_style"
+            android:fontFamily="@font/robotobold"
+            android:text="@string/label_acceso"
+            android:textColor="#FFFFFF"
+            android:textSize="20sp"/>
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="10dp"
+            android:layout_weight="1"></Space>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btRegistrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_style"
+            android:text="@string/label_registro"
+            android:fontFamily="@font/robotobold"
+            android:textColor="@color/blue_500"
+            android:backgroundTint="@color/white"
+            android:textSize="20sp"/>
+
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="357dp"
+        android:layout_height="153dp"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="@font/robotobold"
+        android:text="@string/label_b"
+        android:textAlignment="center"
+        android:textColor="@color/gray_500"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        app:layout_anchor="@+id/textView4"
+        app:layout_anchorGravity="top|center" />
+
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="305dp"
+        android:layout_height="133dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/label_d"
+        android:fontFamily="@font/robotobold"
+        android:textAlignment="center"
+        android:textColor="@color/gray_500"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        app:layout_anchor="@+id/gifImageView2"
+        app:layout_anchorGravity="top|center" />
+
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

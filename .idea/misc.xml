@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/drawable-v24/ic_pass.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/drawable-v24/ic_unidad.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/activity_admin.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/activity_mapa.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/activity_menu.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/activity_principal.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/activity_registro.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/app_bar_menu.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/content_menu.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/fragment_admin.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/fragment_check.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/fragment_gallery.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/fragment_home.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/fragment_nueva_unidad.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/fragment_nuevo_check.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/fragment_nuevo_operador.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/fragment_nuevo_personal.xml" value="0.264" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/fragment_personal.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/fragment_slideshow.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/nav_header_menu.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/row_item_check.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/row_item_operador.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/row_item_personal.xml" value="0.1811965811965812" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/layout/row_item_unidad.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/menu/activity_main_drawer.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/menu/menu.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/menu/menu_check.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/menu/menu_operador.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/menu/menu_personal.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/DELL/StudioProjects/CheckTime/app/src/main/res/menu/menu_unidad.xml" value="0.22083333333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_asistencia.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable-v24/ic_email.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable-v24/ic_map.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable-v24/ic_mapa_background.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable-v24/ic_operadores.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable-v24/ic_pass.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable-v24/ic_perfil.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable-v24/ic_unidad.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable/button_style.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable/ic_bus_foreground.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/ic_mapa_foreground.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/ic_parada_foreground.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/ic_parada_mapa_foreground.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/parada_foreground.xml" value="0.1465" />
+        <entry key="app/src/main/res/drawable/rounded_corner.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable/side_nav_bar.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable/switch_trcks.xml" value="0.139" />
+        <entry key="app/src/main/res/drawable/switch_tumbs.xml" value="0.139" />
+        <entry key="app/src/main/res/font/aldrich.xml" value="0.2574074074074074" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/activity_mapa.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/activity_menu.xml" value="0.27943840579710144" />
+        <entry key="app/src/main/res/layout/activity_muser_fragment.xml" value="0.25364583333333335" />
+        <entry key="app/src/main/res/layout/activity_principal.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/activity_registro.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/app_bar_menu.xml" value="0.20774078369140625" />
+        <entry key="app/src/main/res/layout/content_menu.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/fragment_check.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/fragment_gallery.xml" value="0.14336372847011145" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/fragment_m_user.xml" value="0.25364583333333335" />
+        <entry key="app/src/main/res/layout/fragment_manual.xml" value="0.25364583333333335" />
+        <entry key="app/src/main/res/layout/fragment_nueva_unidad.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/fragment_nuevo_check.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/fragment_nuevo_operador.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/fragment_nuevo_personal.xml" value="0.27943840579710144" />
+        <entry key="app/src/main/res/layout/fragment_personal.xml" value="0.27943840579710144" />
+        <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/nav_header_menu.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/row_item_check.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/row_item_operador.xml" value="0.14336372847011145" />
+        <entry key="app/src/main/res/layout/row_item_unidad.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/menu/menu_check.xml" value="0.32083333333333336" />
+        <entry key="app/src/main/res/menu/menu_operador.xml" value="0.32083333333333336" />
+        <entry key="app/src/main/res/menu/menu_unidad.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_bus_round.xml" value="0.1465" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_mapa.xml" value="0.1465" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

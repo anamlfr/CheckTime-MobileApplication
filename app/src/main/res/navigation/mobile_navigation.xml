@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.checktime.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+
+    <!-- operadores !-->
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.checktime.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_nuevo_operador"
+        android:name="com.example.checktime.ui.gallery.NuevoOperador"
+        android:label="@string/menu_nuevo_operador"
+        tools:layout="@layout/fragment_nuevo_operador" />
+
+
+    <!-- unidad !-->
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.checktime.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_nueva_unidad"
+        android:name="com.example.checktime.ui.unidad.NuevaUnidad"
+        android:label="@string/menu_nueva_unidad"
+        tools:layout="@layout/fragment_nueva_unidad" />
+
+    <!--personal!-->
+
+    <fragment
+        android:id="@+id/nav_personal"
+        android:name="com.example.checktime.ui.personal.PersonalFragment"
+        android:label="@string/menu_personal"
+        tools:layout="@layout/fragment_personal" />
+
+    <fragment
+        android:id="@+id/nav_nuevo_personal"
+        android:name="com.example.checktime.ui.personal.NuevoPersonal"
+        android:label="@string/menu_nuevo_personal"
+        tools:layout="@layout/fragment_nuevo_personal" />
+
+    <!--check!-->
+
+    <fragment
+        android:id="@+id/nav_check"
+        android:name="com.example.checktime.ui.check.CheckFragment"
+        android:label="@string/menu_asignacion"
+        tools:layout="@layout/fragment_check" />
+
+    <fragment
+        android:id="@+id/nav_nuevo_check"
+        android:name="com.example.checktime.ui.check.NuevoCheck"
+        android:label="@string/menu_nuevo_check"
+        tools:layout="@layout/fragment_nuevo_check" />
+
+
+
+
+</navigation>

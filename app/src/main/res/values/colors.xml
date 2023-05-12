@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>+
+
+    <!--   WAVE   !-->
+    <color name="blue_200">#90caf9</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="blue_700">#1976d2</color>
+    <color name="blue_dark">#004ba0</color>
+    <color name="gray_500">#6DA7D6</color>
+
+
+    <color name="TextColor">#ECE5EC</color>
+    <color name="TransparentColor">#2196f3</color>
+
+    <color name="blue">#ED314A9F</color>
+
+
+    <color name="bottom_nav_background">#FFFFFF</color>
+    <color name="bottom_nav_item">#FFFFFF</color>
+    <color name="bottom_nav_selected_item">#FFFFFF</color>
+    <color name="fragment_bg_color">#FFFFFFFF</color>
+
+    <color name="kotlin">#2196F3</color>
+
+
+
+</resources>

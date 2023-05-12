@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Check Time</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Perfil</string>
+
+
+    <string name="menu_gallery">Operadores</string>
+    <string name="menu_nuevo_operador">Agregar Operador</string>
+    <string name="select_operador">Selecciona Operador</string>
+    <string name="select_unidad">Selecciona Unidad</string>
+    <string name="select_status">Seleccionar Estatus</string>
+
+    <string name="menu_slideshow">Unidades</string>
+    <string name="menu_nueva_unidad">Agregar Unidad</string>
+
+    <string name="menu_personal">Personal</string>
+    <string name="menu_nuevo_personal">Agregar Personal</string>
+
+    <string name="menu_asignacion">Check</string>
+    <string name="menu_manualuser">Manual de usuario</string>
+
+    <string name="menu_nuevo_check">Agregar Check</string>
+    <string name="select_check">Selecciona Registro</string>
+
+
+    <!--   PRINCIPAL   !-->
+    <string name="label_check">CHECK TIME</string>
+    <string name="label_b">¡BIENVENIDO!</string>
+    <string name="label_d">Conoce la ubicación de tu transporte y evita retrasos.</string>
+    <string name="label_acceso">Iniciar Sesión</string>
+    <string name="label_registro">Crear cuenta</string>
+
+    <!--   LOGIN   !-->
+    <string name="sesion">Accesar</string>
+
+    <!--   HOME   !-->
+    <string name="cve">Hola</string>
+    <string name="nombre">Bienvenido a tu perfil. Comienza a gestionar tu ruta diaria y evita retrasos.</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
